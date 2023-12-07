@@ -1,6 +1,6 @@
 Name:		texlive-newpax
-Version:	64415
-Release:	2
+Version:	68762
+Release:	1
 Summary:	Experimental package to extract and reinsert PDF annotations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newpax
