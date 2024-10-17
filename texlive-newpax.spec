@@ -3,7 +3,7 @@ Version:	68762
 Release:	1
 Summary:	Experimental package to extract and reinsert PDF annotations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newpax
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/newpax
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/newpax.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/newpax.doc.r%{version}.tar.xz
